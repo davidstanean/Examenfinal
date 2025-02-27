@@ -1,0 +1,91 @@
+body {
+
+    background-color:rgb(243, 203, 128);
+
+}
+
+h1 {
+
+    text-shadow: red 3px 3px;
+    color: white;
+    text-align: center;
+    font-family: "Akaya Kanadaka", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.titulo {
+
+background-color: rgb(230, 88, 6);
+height: 120px
+    
+}
+
+div.enlaces {
+
+background-color: yellow;
+text-align: center;
+height: 60px;
+border-style: dashed;
+border-width:5px;
+
+
+}
+
+.footer {
+
+
+color: red;
+background-color: yellow;
+text-align: center;
+font-size: 15px;
+
+}
+
+
+
+p.texto  {
+    color: red;
+    background-color: rgb(240, 185, 83);
+    border-color: red ;
+    border-top-style:  dashed;
+    border-left-style: solid;
+    border-bottom-style:dotted;
+    border-right-style: double;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 200px;
+    margin-top: 100px;
+    height: 100px;
+    border-width: 5px;
+    letter-spacing: 5px;
+}
+
+.titulo2 {
+
+color:red;
+text-align: center;
+font-size: 20px;
+
+}
+
+.lista {
+
+
+text-align: center;
+color:red;
+position: relative;
+letter-spacing: 2px;
+
+}
+
+.formularios {
+
+    color: white;
+    background-color: rgb(230, 88, 6);
+    position: relative;
+    margin-bottom: 400px;
+    margin-left: 600px;
+   
+}
